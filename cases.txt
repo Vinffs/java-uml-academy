@@ -1,0 +1,11 @@
+UC 1
+Gestione Dipendenti
+Descrizione: Aggiungere, modificare o eliminare dipendenti dell'Academy.
+
+UC 2
+Gestione Corsi
+Descrizione: Aggiungere, modificare o eliminare corsi offerti dall'Academy.
+Generazione Report
+
+UC3
+Descrizione: Generare report sui dipendenti, corsi o altri aspetti dell'Academy.
